@@ -2,4 +2,3 @@
 - 👀 I’m interested in coding to find my niche
 - 🌱 I’m currently learning python and java
 - 📫 You can reach me at alexcarson1379@gmail.com
-- 😄 Pronouns: He/him
